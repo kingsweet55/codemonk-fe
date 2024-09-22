@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RecruiterHeader /> should render a div 1`] = `null`;
